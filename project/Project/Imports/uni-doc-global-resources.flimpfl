@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheetOverride="True"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.*"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2021-04-12T14:06:59.5502194-05:00">
+  <Files>
+    <Url
+      Source="../../../../docs-flare-globalresources/uni-doc-global-resources.flprj" />
+  </Files>
+</CatapultProject>
